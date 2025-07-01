@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+geopy
+folium
+streamlit-folium
+numpy
+requests
+torch
+transformers
+sentencepiece
